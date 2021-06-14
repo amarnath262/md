@@ -1,0 +1,16 @@
+{
+    "name": "Hardware Details",
+    "type": "flogo:activity",
+    "version": "0.0.1",
+    "title": "MacAdrress",
+    "description": "Fetches the MAC Address",
+    "homepage": "https://github.com/amarnath262/stat",
+    "input": [
+    ],
+    "output": [
+      {
+        "name": "Output",
+        "type": "any"
+      }
+    ]
+  }
